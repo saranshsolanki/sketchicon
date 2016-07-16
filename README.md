@@ -7,6 +7,7 @@ Here is an example with "Material Design icons" in black and white.
  
 How to use : 
 1. Draw a rectangle
+</br>
 2. Run the plugin from the Plugins menu or "cmd+shift+m"
 3. Type the name of the icon (if there is a space between words, replace with "_")
 4. Choose the color
