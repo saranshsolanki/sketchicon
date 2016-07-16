@@ -5,7 +5,7 @@ Managing icons in a big team can be messy. Providing a style guide doesn't suffi
 
 Here is an example with "Material Design icons" in black and white. 
  
-How to use :
+# How to use :
 </br>
 1. Draw a rectangle
 </br>
@@ -17,7 +17,7 @@ How to use :
 </br>
 5. Tadaaa
 
-How to customize the plugin :
+# How to customize the plugin :
 </br>
 1. Export all the icons you use in all colors needed. Make sure you export them at ~3x the size you usually use in your artboards. Make different folders for different colors. And export icons with name as "ic_layername.png".
 </br>
@@ -41,5 +41,7 @@ This plugin uses pngs instead of svgs which is useful for teams which have a set
  
 </br>
 Download iconfetcher.sketchplugin.
+</br>
 Unzip the archive
+</br>
 Double-click the .sketchplugin file to install it
