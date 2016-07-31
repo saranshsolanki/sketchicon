@@ -4,6 +4,7 @@ Create your own icon library
 Managing icons in a big team can be messy. Providing a style guide doesn't suffice. A library is thus needed for all icons used across your team.
 
 Here is an example with "Material Design icons" in black and white. 
+https://design.google.com/icons/
  
 # How to use :
 </br>
